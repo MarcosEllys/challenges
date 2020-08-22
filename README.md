@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/MarcosEllys/challenges/master/programmer.gif)
+
 # Code Challenges
 
 My solution to various code problems
